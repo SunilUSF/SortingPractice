@@ -1,6 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
 
+//Team - 8 - Gayathri
+
 // input array
 int[] bubble_sort_numbers = { 3, 62, 5, 16, 4, 10 };
 
